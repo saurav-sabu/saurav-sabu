@@ -1,29 +1,88 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif" alt="animated" />
-</p>
 <h1 align="center">Hi 👋, I'm Saurav Sabu</h1>
-<h3 align="center">Aspiring machine learning engineer seeking opportunities to apply my technical skills and expertise in machine learning to solve real-world problems and drive business solutions.</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/77/29/f4/7729f4ebf5dd3d6754dee0ed5837ef77.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurav-sabu&label=Profile%20views&color=0e75b6&style=flat" alt="saurav-sabu" /> </p>
+<h3 align="center">🧠 GenAI Engineer | 🛠️ ML Developer | 🧩 Builder of Intelligent Agentic Systems</h3>
 
-- 🌱 I’m currently learning **Tensorflow**
-
-- 💬 Ask me about **Machine Learning, Deep Learning, Python, SQL**
-
-- 📫 How to reach me **saurav.sabu9@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sauravsabu789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sauravsabu789" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/sauravsabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/sauravsabu" height="30" width="40" /></a>
-<a href="https://www.instagram.com/xtreme_immortal_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/xtreme_immortal_/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sauravsabu789/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://github.com/saurav-sabu" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="mailto:saurav.sabu9@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://www.kaggle.com/sauravsabu" target="_blank"><img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle" alt="Kaggle"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurav-sabu&show_icons=true&locale=en&layout=compact" alt="saurav-sabu" /></p>
+### 🧑‍💼 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurav-sabu&show_icons=true&locale=en" alt="saurav-sabu" /></p>
+Hi! I’m a creative technologist passionate about combining **machine learning** and **generative AI** to create magical user experiences.  
+I specialize in building **agentic applications** that collaborate, reason, and solve real-world problems.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurav-sabu&" alt="saurav-sabu" /></p>
+Currently exploring:  
+🔍 **LLMs**, **LangGraph**, **multi-agent orchestration**, and **real-time AI systems**
+
+---
+
+### 🚀 Featured Projects
+
+| 🧠 Project | Description | Links |
+|-----------|-------------|-------|
+| **TravAgent** | ✈️ Your intelligent AI travel assistant powered by multi-agent systems. Fetches real-time weather, hotels, events, and builds full itineraries. | 🌐 [Live App](https://travagent.onrender.com) • 📂 [Code](https://github.com/saurav-sabu/TravAgent) |
+| **ScreenGenie** | 🪄 A GenAI tool to screen resumes, generate personalized cover letters, and prep for interviews. | 🌐 [Live App](https://screengenie.streamlit.app) • 📂 [Code](https://github.com/saurav-sabu/ScreenGenie) |
+| **NewsBite-AI** | 📰 AI news summarizer that supports topic search, multilingual summaries, and text-to-audio conversion. | 🌐 [Live App](https://newsbite-ai.streamlit.app) • 📂 [Code](https://github.com/saurav-sabu/NewsBite-AI) |
+
+---
+
+### 🛠️ Tech Stack
+
+#### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql)
+
+#### 🧠 AI/ML Tools
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=flat&logo=tensorflow)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-yellow?style=flat&logo=huggingface)
+![LangChain](https://img.shields.io/badge/LangChain-purple?style=flat)
+
+#### ⚙️ Frameworks & Platforms
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit)
+![Flask](https://img.shields.io/badge/Flask-white?style=flat&logo=flask)
+![CrewAI](https://img.shields.io/badge/CrewAI-007ACC?style=flat)
+![Gemini](https://img.shields.io/badge/Gemini-AI-23B5E5?style=flat)
+
+#### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+
+#### 🧩 Databases & Vector DBs
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
+![Pinecone](https://img.shields.io/badge/Pinecone-blue?style=flat)
+![FAISS](https://img.shields.io/badge/FAISS-white?style=flat)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saurav-sabu&show_icons=true&theme=radical" alt="stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurav-sabu&layout=compact&theme=radical" alt="langs" height="150"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=saurav-sabu&theme=radical" alt="streak" />
+</p>
+
+---
+
+### ✨ Fun Facts
+
+- 🧙 I enjoy transforming complex AI into simple web apps anyone can use  
+- 📦 My GenAI tools are designed to be plug-and-play for real-world users  
+- 🔬 Always experimenting with new models, agents, and interfaces  
+- 🧭 Motto: *"Build with curiosity. Scale with purpose."*
+
+---
+
+<p align="center">
+  <b>Let’s collaborate and build something extraordinary! 💡</b>
+</p>
