@@ -22,11 +22,12 @@ Currently exploring:
 
 ### 🚀 Featured Projects
 
-| 🧠 Project | Description | Links |
-|-----------|-------------|-------|
-| **TravAgent** | ✈️ Your intelligent AI travel assistant powered by multi-agent systems. Fetches real-time weather, hotels, events, and builds full itineraries. | 🌐 [Live App](https://travagent.onrender.com) • 📂 [Code](https://github.com/saurav-sabu/TravAgent) |
-| **ScreenGenie** | 🪄 A GenAI tool to screen resumes, generate personalized cover letters, and prep for interviews. | 🌐 [Live App](https://screengenie.streamlit.app) • 📂 [Code](https://github.com/saurav-sabu/ScreenGenie) |
-| **NewsBite-AI** | 📰 AI news summarizer that supports topic search, multilingual summaries, and text-to-audio conversion. | 🌐 [Live App](https://newsbite-ai.streamlit.app) • 📂 [Code](https://github.com/saurav-sabu/NewsBite-AI) |
+| 🧠 Project      | Description                                                                                                                                              | Links                                                                                                    |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| **TravAgent**   | ✈️ Your intelligent AI travel assistant powered by multi-agent systems. Fetches real-time weather, hotels, events, and builds full itineraries.          | 🌐 [Live App](https://travagent.onrender.com) • 📂 [Code](https://github.com/saurav-sabu/TravAgent)      |
+| **ScreenGenie** | 🪄 A GenAI tool to screen resumes, generate personalized cover letters, and prep for interviews.                                                         | 🌐 [Live App](https://screengenie.streamlit.app) • 📂 [Code](https://github.com/saurav-sabu/ScreenGenie) |
+| **NewsBite-AI** | 📰 AI news summarizer that supports topic search, multilingual summaries, and text-to-audio conversion.                                                  | 🌐 [Live App](https://newsbite-ai.streamlit.app) • 📂 [Code](https://github.com/saurav-sabu/NewsBite-AI) |
+| **MediSage**    | 🩺 AI-powered RAG-based medical knowledge assistant built with Flask, Pinecone, and Gemini. Provides context-aware medical Q\&A with document retrieval. | 🌐 [Live App](https://medisage-zrba.onrender.com) • 📂 [Code](https://github.com/saurav-sabu/MediSage)   |
 
 ---
 
