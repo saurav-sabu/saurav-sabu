@@ -28,6 +28,7 @@ Currently exploring:
 | **ScreenGenie** | 🪄 A GenAI tool to screen resumes, generate personalized cover letters, and prep for interviews.                                                         | 🌐 [Live App](https://screengenie.streamlit.app) • 📂 [Code](https://github.com/saurav-sabu/ScreenGenie) |
 | **NewsBite-AI** | 📰 AI news summarizer that supports topic search, multilingual summaries, and text-to-audio conversion.                                                  | 🌐 [Live App](https://newsbite-ai.streamlit.app) • 📂 [Code](https://github.com/saurav-sabu/NewsBite-AI) |
 | **MediSage**    | 🩺 AI-powered RAG-based medical knowledge assistant built with Flask, Pinecone, and Gemini. Provides context-aware medical Q\&A with document retrieval. | 🌐 [Live App](https://medisage-zrba.onrender.com) • 📂 [Code](https://github.com/saurav-sabu/MediSage)   |
+| **AdGenie**     | 📢 Streamlit-based AI ad copy generator. Generates personalized ad copies with adjustable tone, CTA suggestions, hashtags, and sentiment analysis.        | 🌐 [Live App](https://adgenie.streamlit.app) • 📂 [Code](https://github.com/saurav-sabu/AdGenie)         |
 
 ---
 
