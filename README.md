@@ -29,6 +29,8 @@ Currently exploring:
 | **NewsBite-AI** | 📰 AI news summarizer that supports topic search, multilingual summaries, and text-to-audio conversion.                                                  | 🌐 [Live App](https://newsbite-ai.streamlit.app) • 📂 [Code](https://github.com/saurav-sabu/NewsBite-AI) |
 | **MediSage**    | 🩺 AI-powered RAG-based medical knowledge assistant built with Flask, Pinecone, and Gemini. Provides context-aware medical Q\&A with document retrieval. | 🌐 [Live App](https://medisage-zrba.onrender.com) • 📂 [Code](https://github.com/saurav-sabu/MediSage)   |
 | **AdGenie**     | 📢 Streamlit-based AI ad copy generator. Generates personalized ad copies with adjustable tone, CTA suggestions, hashtags, and sentiment analysis.        | 🌐 [Live App](https://adgenie.streamlit.app) • 📂 [Code](https://github.com/saurav-sabu/AdGenie)         |
+| **YT2Blog** | 🎬 AI-powered app that converts YouTube videos into SEO-friendly blog posts with summaries, transcripts, and keyword optimization. | 🌐 [Live App](https://yt2write-ai.streamlit.app/) • 📂 [Code](https://github.com/saurav-sabu/YT2Blog) |
+| **Vehicle Insurance Prediction** | 🚗 End-to-end MLOps pipeline with FastAPI, Docker, AWS, and MongoDB. Predicts customer likelihood of buying vehicle insurance, with CI/CD, monitoring, and automated retraining. | 📂 [Code](https://github.com/saurav-sabu/Vehicle-Insurance-Project) |
 
 ---
 
